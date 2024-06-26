@@ -5,3 +5,8 @@ ls -1
 clear
 .../small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious (master) $ cat trophy.txt
 ls *.js
+mkdir not-that-funny
+cp the-mostboring-text.txt ./even-more-boring
+mv kids.jpg ./hello
+rm -rf small-name
+cat the-ultimate-joke.txt
